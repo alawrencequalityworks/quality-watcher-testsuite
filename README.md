@@ -5,6 +5,6 @@ Automation Suite for the QualityWatcher project
 Clone this repository:
 ```sh
 $ git clone https://github.com/alawrencequalityworks/quality-watcher-testsuite.git
-$ cd AFL-CIO-Automation
+$ cd QualityWatcher-Automation
 $ npm install
 ```
